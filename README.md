@@ -1,4 +1,3 @@
-# Console_Library
 # Online Library Database Management System
 
 This repository showcases an **Online Library Database Management System** built using an **Object-Oriented Database (OODB)** model, specifically implemented with **Zope Object Database (ZODB)**. The focus is on leveraging the strengths of OODBs to handle library resources and their relationships efficiently.
